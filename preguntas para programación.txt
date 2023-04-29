@@ -1,0 +1,4 @@
+-converzación de alexa con presentador
+-Retroalimentación para Amazon
+-Retroalimentación sobre el cliente
+-
